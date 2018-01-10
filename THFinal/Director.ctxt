@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Director
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Director\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nm\ fm
+comment1.target=Director(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getFilmography()
+comment4.params=ne
+comment4.target=void\ setName(java.lang.String)
+comment5.params=num
+comment5.target=void\ setFilmography(int)
+comment6.params=
+comment6.target=void\ direct()
+comment7.params=dr
+comment7.target=int\ compareTo(Director)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
